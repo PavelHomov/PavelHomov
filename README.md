@@ -1,4 +1,4 @@
-## 👋 Glad to see you here! 
+## 👋 Hi! 
 
 I'm Pavel Homov, currently pursuing a bachelor's degree majoring in "Information systems and technologies" from [Voronezh State University of Engineering Technologies](https://vsuet.ru/).
 
