@@ -17,6 +17,8 @@ I'm Pavel Homov, currently pursuing a bachelor's degree majoring in "Information
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
 ![SQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=Mysql&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
