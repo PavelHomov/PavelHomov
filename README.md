@@ -8,9 +8,6 @@ I'm Pavel Homov, currently pursuing a bachelor's degree majoring in "Information
 ## 📫 Contact with me<br>
 [![Telegram Badge](https://img.shields.io/badge/-@pavelhomov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/pavelhomov "Priority to communicate")
 [![Telegram Badge](https://img.shields.io/badge/-PavelHomov-0088CC?style=flat&logo=vk&logoColor=white)](https://vk.com/pavelhomov "Russian social network")
-<br>
-<br>
-<b> My email pawel.khomov@yandex.ru </b>
 
 ## 💻 Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
