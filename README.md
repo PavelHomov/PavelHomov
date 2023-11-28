@@ -1,8 +1,16 @@
-## 👋 Hi! 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/pavelhomov/">
+    <img src="https://img.shields.io/badge/My LinkedIn Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/pavelhomov">
+    <img src="https://img.shields.io/badge/My Telegram Profile-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
+</div>
+
+## 👋 Hi! 
 
 I'm Pavel Homov, currently pursuing a bachelor's degree majoring in "Information systems and technologies" from [Voronezh State University of Engineering Technologies](https://vsuet.ru/).
 
