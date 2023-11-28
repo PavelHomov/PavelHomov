@@ -1,5 +1,9 @@
 ## 👋 Hi! 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+</div>
+
 I'm Pavel Homov, currently pursuing a bachelor's degree majoring in "Information systems and technologies" from [Voronezh State University of Engineering Technologies](https://vsuet.ru/).
 
 + I'm studying at [Yandex Practicum](https://practicum.com/) on "Python backend developer+";
