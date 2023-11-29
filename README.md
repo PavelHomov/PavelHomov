@@ -12,7 +12,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=PavelHomov&style=flat-square&color=blue" alt=""/>
   <h1>
-  Привет!
+  Привет, меня зовут Павел!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
