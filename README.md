@@ -17,26 +17,33 @@
 </h1>
 </div>
 
+### :man_technologist: About Me :
 
-I'm Pavel Homov, currently pursuing a bachelor's degree majoring in "Information systems and technologies" from [Voronezh State University of Engineering Technologies](https://vsuet.ru/).
+Я Python-разработчик с опытом работы ~1,5 года в нескольких организациях, включая некоммерческие. Помимо этого являюсь студентом Воронежского государственного университета инженерных технологий по специальности «Информационные системы», а так же выпускник Россошанского колледжа по специальности «Информационные системы» (с красным дипломом). С раннего детства мне нравится Computer Science, именно поэтому я решил связать свою жизнь с разработкой. <br>
 
-+ I'm studying at [Yandex Practicum](https://practicum.com/) on "Python backend developer+";
-+ Languages: Russian, English (B1);
 
-## 📫 Contact with me<br>
-[![Telegram Badge](https://img.shields.io/badge/-@pavelhomov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/pavelhomov "Priority to communicate")
-[![Telegram Badge](https://img.shields.io/badge/-PavelHomov-0088CC?style=flat&logo=vk&logoColor=white)](https://vk.com/pavelhomov "Russian social network")
+Я успешно закончил курс профессиональной переподготовки по специальности «Python разработчик» от Яндекс Практикума. Так же я постоянно изучаю материалы по актуальным технологиям в YouTube, прохожу дополнительные курсы, читаю книги по Python разработке и занимаюсь фрилансом. В данный момент я продолжаю погружаться в асинхронную разработку. Изучаю новые сервисы с которыми не успел поработать. Хочу освоить нереляционные БД, например MongoDB. <br>
 
-## 💻 Technologies
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
-![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=Mysql&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+На актуальной должности в основном пишу парсеры и скрипты, которые взаимодействуют с различными бизнес API. Освоил практически весь стек аналитика данных.
+
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-316192?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6DA55F?style=for-the-badge&logo=Django&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23593d88.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=Celery&logoColor=white)
+![pydantic](https://img.shields.io/badge/pydantic-%23E0234E.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%238DD6F9.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-000000.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=PavelHomov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelHomov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
