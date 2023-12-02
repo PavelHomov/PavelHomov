@@ -17,7 +17,7 @@
 </h1>
 </div>
 
-### :man_technologist: Обо мне :
+### 👨‍💻 Обо мне :
 
 Я Python-разработчик с опытом работы ~1,5 года в нескольких организациях, включая некоммерческие. Помимо этого являюсь студентом Воронежского государственного университета инженерных технологий по специальности «Информационные системы», а так же выпускник Россошанского колледжа по специальности «Информационные системы» (с красным дипломом). С раннего детства мне нравится Computer Science, именно поэтому я решил связать свою жизнь с разработкой. <br>
 
@@ -26,7 +26,7 @@
 
 На актуальной должности в основном пишу парсеры и скрипты, которые взаимодействуют с различными бизнес API. Освоил практически весь стек аналитика данных.
 
-### :hammer_and_wrench: Языки и технологии :
+### 🛠️ Языки и технологии :
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-316192?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-6DA55F?style=for-the-badge&logo=Django&logoColor=white)
@@ -41,7 +41,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-000000.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### :fire: Моя статистика :
+### 🔥 Моя статистика :
 [![GitHub Streak](https://streak-stats.demolab.com?user=PavelHomov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelHomov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
