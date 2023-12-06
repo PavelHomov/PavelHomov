@@ -43,12 +43,15 @@
 ### 💻 Мои проекты :
 ### Все решения упакованы в Docker файлы, в Readme файлах проекты видны визуально (гифки, скрины)
 
-1. Социальная сеть (Django, Templates, Pytests)
-2. API к социальной сети (Django Rest Framework)
-3. Проект пожертвований (FastAPI, Google Sheets API)
-4. Укоротитель ссылок (Flask)
-5. Асинхронный парсер (Scrapy)
-6. Синхронный парсер (bs4 + requests)
+1. [Социальная сеть (Django, Templates, Pytests)](https://github.com/PavelHomov/Social-network-on-Django)
+2. [API к социальной сети (Django Rest Framework)](https://github.com/PavelHomov/API-for-social-network-on-Django)
+3. [Проект пожертвований (FastAPI, Google Sheets API)](https://github.com/PavelHomov/QRkot)
+4. [Укоротитель ссылок (Flask)](https://github.com/PavelHomov/yacut)
+5. [Асинхронный парсер (Scrapy)](https://github.com/PavelHomov/Scrapy-pep-parser)
+6. [Синхронный парсер (bs4 + requests)](https://github.com/PavelHomov/bs4_parser_pep)
+7. [Онлайн-сервис и API для него (Django, Django Rest Framework)](https://github.com/PavelHomov/foodgram-project-react)
+8. [API для сервиса, разработанный в команде с двумя разработчиками (Django, Django Rest Framework)](https://github.com/PavelHomov/yamdb_final)
+### У меня есть еще много приватных проектов репозиториев!😄
 
 ### 🔥 Моя статистика :
 [![GitHub Streak](https://streak-stats.demolab.com?user=PavelHomov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
