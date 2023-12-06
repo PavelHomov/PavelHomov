@@ -43,9 +43,12 @@
 ### 💻 Мои проекты :
 ### Все решения упакованы в Docker файлы, в Readme файлах проект виден визуально (гифки, скрины)
 
-1. Социальная сеть (Django, Templates, Pytests, Docker)
-2. API к социальной сети (Django Rest Framework, Docker)
-
+1. Социальная сеть (Django, Templates, Pytests)
+2. API к социальной сети (Django Rest Framework)
+3. Проект пожертвований (FastAPI, Google Sheets API)
+4. Укоротитель ссылок (Flask)
+5. Асинхронный парсер (Scrapy)
+6. Синхронный парсер (bs4 + requests)
 
 ### 🔥 Моя статистика :
 [![GitHub Streak](https://streak-stats.demolab.com?user=PavelHomov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
