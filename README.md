@@ -46,11 +46,11 @@
 1. [Социальная сеть (Django, Templates, Pytests)](https://github.com/PavelHomov/Social-network-on-Django)
 2. [API к социальной сети (Django Rest Framework)](https://github.com/PavelHomov/API-for-social-network-on-Django)
 3. [Проект пожертвований (FastAPI, Google Sheets API)](https://github.com/PavelHomov/donations-project)
-4. [Укоротитель ссылок (Flask)](https://github.com/PavelHomov/yacut)
-5. [Асинхронный парсер (Scrapy)](https://github.com/PavelHomov/Scrapy-pep-parser)
-6. [Синхронный парсер (bs4 + requests)](https://github.com/PavelHomov/bs4_parser_pep)
-7. [Онлайн-сервис и API для него (Django, Django Rest Framework)](https://github.com/PavelHomov/foodgram-project-react)
-8. [API для сервиса, разработанный в команде с двумя разработчиками (Django, Django Rest Framework)](https://github.com/PavelHomov/yamdb_final)
+4. [Укоротитель ссылок (Flask)](https://github.com/PavelHomov/URL-Shortener)
+5. [Асинхронный парсер (Scrapy)](https://github.com/PavelHomov/Scrapy-parser)
+6. [Синхронный парсер (bs4 + requests)](https://github.com/PavelHomov/bs4-parser)
+7. [Онлайн-сервис и API для него (Django, Django Rest Framework)](https://github.com/PavelHomov/food-project)
+8. [API для сервиса, разработанный в команде с двумя разработчиками (Django, Django Rest Framework)](https://github.com/PavelHomov/feedback-project)
 ### У меня есть еще много приватных проектов репозиториев!😄
 
 ### 🔥 Моя статистика :
