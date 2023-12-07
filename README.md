@@ -45,7 +45,7 @@
 
 1. [Социальная сеть (Django, Templates, Pytests)](https://github.com/PavelHomov/Social-network-on-Django)
 2. [API к социальной сети (Django Rest Framework)](https://github.com/PavelHomov/API-for-social-network-on-Django)
-3. [Проект пожертвований (FastAPI, Google Sheets API)](https://github.com/PavelHomov/QRkot)
+3. [Проект пожертвований (FastAPI, Google Sheets API)](https://github.com/PavelHomov/donations-project)
 4. [Укоротитель ссылок (Flask)](https://github.com/PavelHomov/yacut)
 5. [Асинхронный парсер (Scrapy)](https://github.com/PavelHomov/Scrapy-pep-parser)
 6. [Синхронный парсер (bs4 + requests)](https://github.com/PavelHomov/bs4_parser_pep)
