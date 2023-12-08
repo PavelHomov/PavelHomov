@@ -49,7 +49,7 @@
 4. [Укоротитель ссылок (Flask)](https://github.com/PavelHomov/URL-Shortener)
 5. [Асинхронный парсер (Scrapy)](https://github.com/PavelHomov/Scrapy-parser)
 6. [Синхронный парсер (bs4 + requests)](https://github.com/PavelHomov/bs4-parser)
-7. [Онлайн-сервис и API для него (Django, Django Rest Framework)](https://github.com/PavelHomov/food-project)
+7. [Онлайн-сервис и API для него (Django, Django Rest Framework, PostgreSQL, nginx)](https://github.com/PavelHomov/food-project)
 8. [API для сервиса, разработанный в команде с двумя разработчиками (Django, Django Rest Framework)](https://github.com/PavelHomov/feedback-project)
 ### У меня есть еще много приватных проектов репозиториев!😄
 
