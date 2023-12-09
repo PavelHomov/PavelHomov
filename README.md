@@ -41,7 +41,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 💻 Мои проекты :
-### Все решения упакованы в Docker файлы, в Readme файлах проекты видны визуально (гифки, скрины)
+### Все решения упакованы в Docker файлы, в Readme файлах проекты видны визуально (гифки, скрины)!
 
 1. [Социальная сеть (Django, Templates, Pytests)](https://github.com/PavelHomov/Social-network-on-Django)
 2. [API к социальной сети (Django Rest Framework)](https://github.com/PavelHomov/API-for-social-network-on-Django)
